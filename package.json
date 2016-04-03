@@ -1,0 +1,19 @@
+{
+  "name": "rscf",
+  "version": "1.0.0",
+  "description": "A Really Super Cool Function",
+  "main": "rspf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tutiplain/rscf.git"
+  },
+  "author": "tutiplain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tutiplain/rscf/issues"
+  },
+  "homepage": "https://github.com/tutiplain/rscf#readme"
+}
